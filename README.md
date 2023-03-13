@@ -9,7 +9,7 @@
 [![HTML](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://soft-biscochitos-13f93e.netlify.app/)
 
 - 🔭 I am currently working on the backend of my portfolio
-- 🌱 I’m currently specializing in **NextJs**, **TypeScript** and **React Native**. 
+- 🌱 I’m currently specializing in **NextJs**, **Redux** and **MySql**. 
 - 👯 I'm looking to collaborate on a team where I can apply my knowledge in addition to learning from others.
 - 🤔 I'm looking for help with getting my first IT job.
 - 🏞️ I like hiking and adventure sports.
