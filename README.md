@@ -8,7 +8,7 @@
 [![HTML](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasmartinezc@gmail.com)
 [![HTML](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://soft-biscochitos-13f93e.netlify.app/)
 
-- 🔭 I am currently working on the backend of my portfolio
+- 🔭 I am currently working on a full stack app oriented to a sports school - [Respository](https://github.com/LukasMartc/escuela-lcm) - [API Repository](https://github.com/LukasMartc/escuela-lcm-api)
 - 🌱 I’m currently specializing in **NextJs**, **Redux** and **PostgreSQL**. 
 - 👯 I'm looking to collaborate on a team where I can apply my knowledge in addition to learning from others.
 - 🤔 I'm looking for help with getting my first IT job.
