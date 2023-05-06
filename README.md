@@ -8,7 +8,6 @@
 [![HTML](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasmartinezc@gmail.com)
 [![HTML](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://soft-biscochitos-13f93e.netlify.app/)
 
-- 🔭 I am currently working on a full stack app oriented to a sports school - [Respository](https://github.com/LukasMartc/escuela-lcm) - [API Repository](https://github.com/LukasMartc/escuela-lcm-api)
 - 🌱 I’m currently specializing in **NextJs**, **Redux** and **PostgreSQL**. 
 - 👯 I'm looking to collaborate on a team where I can apply my knowledge in addition to learning from others.
 - 🤔 I'm looking for help with getting my first IT job.
@@ -17,6 +16,7 @@
 
 ## 💻 Latest Projects
 
+> - Projects Manager API - [Respository](https://github.com/LukasMartc/projectsmanager-api) 
 > - Portfolio - [Web Demo](https://lukasmartinezc.netlify.app/) - [Respository](https://github.com/LukasMartc/Portfolio) - [API Repository](https://github.com/LukasMartc/portfolio-api)
 > - ITech - [Web Demo](https://relaxed-praline-db38a0.netlify.app/) - [Respository](https://github.com/LukasMartc/eCommerceMERN_frontend) - [API Repository](https://github.com/LukasMartc/eCommerceMERN_backend)
 > - Café Recontre [Web Demo](https://superlative-nasturtium-841623.netlify.app/) - [Respository](https://github.com/LukasMartc/proyecto-cafeteria) 
