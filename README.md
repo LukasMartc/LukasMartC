@@ -32,7 +32,7 @@
 
 ### 🔨 Backend Development
 
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Sequelize](https://img.shields.io/badge/Sequelize-1572B6?style=for-the-badge&logo=sequelize3&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-CC0000?style=for-the-badge&logo=Mongoose&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Sequelize](https://img.shields.io/badge/Sequelize-1572B6?style=for-the-badge&logo=sequelize3&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-CC0000?style=for-the-badge&logo=Mongoose&logoColor=white)
 
 ### 🔧 Database
 
