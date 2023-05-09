@@ -8,7 +8,7 @@
 [![HTML](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasmartinezc@gmail.com)
 [![HTML](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lukasmartinezc.netlify.app/)
 
-- 🌱 I’m currently specializing in **Docker**, **Graphql** and **Typescript**. 
+- 🌱 I’m currently specializing in **Typescript**, **NestJs**, **Prisma** and **Graphql**. 
 - 👯 I'm looking to collaborate on a team where I can apply my knowledge in addition to learning from others.
 - 🤔 I'm looking for help with getting my first IT job.
 - 🏞️ I like hiking and adventure sports.
